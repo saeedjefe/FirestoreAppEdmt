@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "881456849274",
+    "firebase_url": "https://ucaityprojects.firebaseio.com",
+    "project_id": "ucaityprojects",
+    "storage_bucket": "ucaityprojects.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881456849274:android:d9fff3fb36575ea8",
+        "android_client_info": {
+          "package_name": "saeed.example.com.firestoreappedmt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881456849274-hrkvq52cs5255u7rl3liv0fpg0om119n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "saeed.example.com.firestoreappedmt",
+            "certificate_hash": "4de46b46cbcbcc196c13cadb873f1f0a537ef585"
+          }
+        },
+        {
+          "client_id": "881456849274-8rej59b2cibj3danl45pqiso2hh803po.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx1ejDKKhWqzpHa-bS0Is93V23zQsHHOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881456849274-8rej59b2cibj3danl45pqiso2hh803po.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
